@@ -1,0 +1,20 @@
+{
+  "build/app.css": "/build/app.css",
+  "build/app.js": "/build/app.js",
+  "build/images/search-large.svg": "/build/images/search-large.4c59b68b.svg",
+  "build/images/search-navbar.svg": "/build/images/search-navbar.d8dab4a5.svg",
+  "build/images/close-icon.svg": "/build/images/close-icon.d44b157b.svg",
+  "build/images/close-large.svg": "/build/images/close-large.876704cc.svg",
+  "build/images/search-icon.svg": "/build/images/search-icon.2c3603a2.svg",
+  "build/images/navbar-toggle-icon.svg": "/build/images/navbar-toggle-icon.89c46c98.svg",
+  "build/images/slidenav-previous-large.svg": "/build/images/slidenav-previous-large.119ca30d.svg",
+  "build/images/slidenav-next-large.svg": "/build/images/slidenav-next-large.03d7d668.svg",
+  "build/images/slidenav-previous.svg": "/build/images/slidenav-previous.1b7d4825.svg",
+  "build/images/slidenav-next.svg": "/build/images/slidenav-next.fa281480.svg",
+  "build/images/overlay-icon.svg": "/build/images/overlay-icon.a22620ce.svg",
+  "build/images/marker.svg": "/build/images/marker.064a9122.svg",
+  "build/images/totop.svg": "/build/images/totop.5638de2d.svg",
+  "build/images/pagination-next.svg": "/build/images/pagination-next.ff138db6.svg",
+  "build/images/pagination-previous.svg": "/build/images/pagination-previous.ca1a712d.svg",
+  "build/images/spinner.svg": "/build/images/spinner.3550941d.svg"
+}

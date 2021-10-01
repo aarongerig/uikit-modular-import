@@ -1,0 +1,27 @@
+{
+  "name": "uikit-modular-import",
+  "version": "1.0.0",
+  "description": "Showcase how to import specific modules from UIkit.",
+  "main": "index.js",
+  "author": "Aaron Gerig <a.gerig@w-vision.ch>",
+  "license": "GPL-3.0",
+  "repository": "https://github.com/aarongerig/uikit-modular-import",
+  "scripts": {
+    "build": "encore production",
+    "dev": "encore dev",
+    "dev-server": "encore dev-server",
+    "watch": "encore dev --watch"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^1.0",
+    "sass": "^1.0",
+    "sass-loader": "^12.0"
+  },
+  "dependencies": {
+    "core-js": "^3.0",
+    "uikit": "^3.0"
+  },
+  "browserslist": [
+    "defaults"
+  ]
+}
